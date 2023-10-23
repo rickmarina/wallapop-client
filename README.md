@@ -18,8 +18,8 @@ Before using this command-line client, make sure you have the following requirem
 
 ## Usage
 
-dotnet run [keywords]
+dotnet run [[keywords]]
 
 or if you build the exe file: 
 
-file.exe [keywords]
+file.exe keywords
