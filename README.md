@@ -22,4 +22,4 @@ dotnet run [[keywords]]
 
 or if you build the exe file: 
 
-file.exe keywords
+file.exe [[keywords]]
